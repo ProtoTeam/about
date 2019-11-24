@@ -1,4 +1,4 @@
-# 错过全世界，也不愿错过你
+# 错过全世界，也不愿错过你 [![Lint](https://github.com/prototeam/about/workflows/lint/badge.svg)](https://github.com/prototeam/about/actions)
 
 
 ## 诚招前端
